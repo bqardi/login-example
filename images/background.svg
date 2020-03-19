@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="100" viewBox="0 0 40 190">
+  <g id="circle_pattern_" data-name="circle pattern " transform="translate(-316 -100)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="5" cy="5" r="5" transform="translate(316 400)" fill="#fff" opacity="0.1"/>
+    <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="5" cy="5" r="5" transform="translate(346 400)" fill="#fff" opacity="0.1"/>
+    <circle id="Ellipse_1-3" data-name="Ellipse 1" cx="5" cy="5" r="5" transform="translate(316 430)" fill="#fff" opacity="0.1"/>
+    <circle id="Ellipse_1-4" data-name="Ellipse 1" cx="5" cy="5" r="5" transform="translate(346 430)" fill="#fff" opacity="0.1"/>
+    <circle id="Ellipse_1-5" data-name="Ellipse 1" cx="5" cy="5" r="5" transform="translate(316 460)" fill="#fff" opacity="0.1"/>
+    <circle id="Ellipse_1-6" data-name="Ellipse 1" cx="5" cy="5" r="5" transform="translate(346 460)" fill="#fff" opacity="0.1"/>
+    <circle id="Ellipse_1-7" data-name="Ellipse 1" cx="5" cy="5" r="5" transform="translate(316 490)" fill="#fff" opacity="0.1"/>
+    <circle id="Ellipse_1-8" data-name="Ellipse 1" cx="5" cy="5" r="5" transform="translate(346 490)" fill="#fff" opacity="0.1"/>
+    <circle id="Ellipse_1-9" data-name="Ellipse 1" cx="5" cy="5" r="5" transform="translate(316 520)" fill="#fff" opacity="0.1"/>
+    <circle id="Ellipse_1-10" data-name="Ellipse 1" cx="5" cy="5" r="5" transform="translate(346 520)" fill="#fff" opacity="0.1"/>
+    <circle id="Ellipse_1-11" data-name="Ellipse 1" cx="5" cy="5" r="5" transform="translate(316 550)" fill="#fff" opacity="0.1"/>
+    <circle id="Ellipse_1-12" data-name="Ellipse 1" cx="5" cy="5" r="5" transform="translate(346 550)" fill="#fff" opacity="0.1"/>
+    <circle id="Ellipse_1-13" data-name="Ellipse 1" cx="5" cy="5" r="5" transform="translate(316 580)" fill="#fff" opacity="0.1"/>
+    <circle id="Ellipse_1-14" data-name="Ellipse 1" cx="5" cy="5" r="5" transform="translate(346 580)" fill="#fff" opacity="0.1"/>
+  </g>
+  <g>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="247" height="247" transform="translate(13.908) rotate(60)" fill="#fff" opacity="0.04"/>
+  </g>
+  <g>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="247" height="247" transform="translate(213.908) rotate(60)" fill="#fff" opacity="0.04"/>
+  </g>
+</svg>
